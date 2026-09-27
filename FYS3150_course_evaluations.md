@@ -1,6 +1,6 @@
-# Bakgrunn
+# Bakgrunn om FYS3150-evalueringer
 
-På slutten av hvert undervisningssemester arrangerer vi et evalueringsmøte med foreleser, gruppelærere og studentrepresentanter. I dette møtet snakker vi om hvordan undervisningen har fungert og fyller sammen ut et nettskjema som oppsummerer hva som kom frem i samtalen. Under har jeg samlet disse oppsummeringene fra foregående år. (Navn på møtedeltakere er fjernet.)
+På slutten av hvert undervisningssemester arrangerer vi et evalueringsmøte med foreleser, gruppelærere og studentrepresentanter i emnet FYS3150 Computational Physics. I dette møtet snakker vi om hvordan undervisningen har fungert og fyller sammen ut et nettskjema som oppsummerer hva som kom frem i samtalen. Under har jeg samlet disse oppsummeringene fra foregående år. (Navn på møtedeltakere er fjernet.)
 
 
 # Sluttevaluering FYS3150, høst 2025
