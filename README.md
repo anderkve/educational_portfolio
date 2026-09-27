@@ -18,3 +18,4 @@ This repository contains supplementary material and links for my educational por
 ## Three-day workshop on project management for PhD students and postdocs
 
 - Slides from the 2024 iteration of the workshop are availble on Zenodo: https://zenodo.org/records/10474595
+  - My collaborator and I split the task of leading the presentation/discussion. The part of the course that I led correspond to the slides with green background colour.
