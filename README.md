@@ -11,7 +11,7 @@ This repository contains supplementary material and links for my educational por
 
 ## UPED university pedagogics course
 
-- Development note (2020), about viewing renormalisation in quantum field theory as a *threshold concepts*: [UPED_development_note_Kvellestad.pdf](./UPED_development_note_Kvellestad.pdf)
+- Development note (2020), about viewing renormalisation in quantum field theory as a *threshold concepts* (Norwegian): [UPED_development_note_Kvellestad.pdf](./UPED_development_note_Kvellestad.pdf)
 
 - Preparation assignment (2020), with my own reflecetions on several aspects on teaching prior to starting the pedagogics course (Norwegian): [UPED_preparation_assignment.pdf](./UPED_preparation_assignment.pdf)
 
